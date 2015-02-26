@@ -1,1 +1,2 @@
 C:\Users\Scott\Documents\Saved Expample files\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\Scott\my_git_Project\VisualStudioProgam\GitTest\bin\Debug\GitTest.exe.config

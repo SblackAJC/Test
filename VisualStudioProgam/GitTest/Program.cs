@@ -15,6 +15,17 @@ namespace GitTest
             string name = Console.ReadLine();
 
             Console.WriteLine("Hello{0}", name);
+
+            Console.WriteLine("Please enter your age");
+            int age = int.Parse(Console.ReadLine());
+            if (age <20)
+            {
+                Console.WriteLine("liar");
+            }
+            else
+            {
+                Console.WriteLine("Thats old");
+            }
         }
     }
 }
