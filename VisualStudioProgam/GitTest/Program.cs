@@ -24,7 +24,7 @@ namespace GitTest
             }
             else
             {
-                Console.WriteLine("Thats old");
+                Console.WriteLine("[0] is really old",name);
             }
         }
     }
